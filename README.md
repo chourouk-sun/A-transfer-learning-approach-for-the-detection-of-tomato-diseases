@@ -7,5 +7,4 @@ Looking at the results obtained and comparing the models trained from scratch on
 
 
 Based on the results obtained from training our three models, we observe that the two pre-trained models outperformed the model trained solely on the PlantVillage dataset—regardless of whether a balanced or imbalanced dataset was used, across both batch size configurations (32 and 16), and even with 10 or 15 epochs.
-
-![image alt](images/Table of results for the various models.png)
+![image alt](images/Table_of_results_for_the_various_models.png)
